@@ -25,4 +25,12 @@
     <td>-</td>
     <td><a href="https://github.com/GDSCI2IT/gdsc_i2it_compose_app">Link</a></td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>One to one video calling website</td>
+    <td>Web Development</td>
+    <td>UI enhancement </td>
+    <td>-</td>
+    <td><a href="https://github.com/GDSCI2IT/video-chat-app">Link</a></td>
+  </tr>
 </table>
