@@ -33,4 +33,12 @@
     <td>-</td>
     <td><a href="https://github.com/GDSCI2IT/video-chat-app">Link</a></td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>food ordering website UI </td>
+    <td>Web Development</td>
+    <td>The website has unfinished cart logic</td>
+    <td>-</td>
+    <td><a href="https://github.com/GDSCI2IT/food-ordering-app/">Link</a></td>
+  </tr>
 </table>
