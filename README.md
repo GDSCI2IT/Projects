@@ -18,11 +18,11 @@
     <td><a href="https://github.com/GDSCI2IT/timetable_manager">Link</a></td>
   </tr>
   <tr>
-    <td>1</td>
+    <td>2</td>
     <td>GDSC I2IT app</td>
     <td>Application development (Android native)</td>
     <td>Feature addition</td>
-    <td><a href="" disabled>-</a></td>
+    <td>-</td>
     <td><a href="https://github.com/GDSCI2IT/gdsc_i2it_compose_app">Link</a></td>
   </tr>
 </table>
