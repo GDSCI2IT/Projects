@@ -45,72 +45,66 @@
   <td>5</td>
     <td>react project-analytics dashboard UI currently on static data</td>
     <td>Web Development</td>
-    <td></td>
+    <td>repo has lot of dirty code ,
+bunch of divs and unnecessary classes 
+clean it</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/dashboard">Link</a></td>
   </tr>
   <tr>
   <td>6</td>
     <td>Converting Youtube Video into Audio and downloading it</td>
     <td>Web 2</td>
-    <td></td>
+    <td>Additional Pages and Front-end design</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/VAD">Link</a></td>
   </tr>
   <tr>
   <td>7</td>
-    <td>Ideas sharing website </td>
-    <td>Web development (wordpress)</td>
-    <td></td>
+    <td>An app to solve Algebraic Equations by Numerical Methods</td>
+    <td>Flutter App Development</td>
+    <td>Feature addition and Commenting</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/numerical_methods">Link</a></td>
   </tr>
   <tr>
   <td>8</td>
-    <td>An app to solve Algebraic Equations by Numerical Methods</td>
-    <td>Flutter App Development</td>
-    <td></td>
+    <td>A minimalistic frontend for YouTube Music made with Python and Flet.</td>
+    <td>Web Development</td>
+    <td>feature addition, feature refinement, commenting, bug fixes</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/Geet">Link</a></td>
   </tr>
   <tr>
   <td>9</td>
-    <td>A minimalistic frontend for YouTube Music made with Python and Flet.</td>
-    <td>Web Development</td>
-    <td></td>
+    <td>A Jupyter widgets-based interactive notebook for Google Colab to generate images using Stable Diffusion.</td>
+    <td>AI/ML</td>
+    <td>Need more model related options, post-processing tools and better UI layout.</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/stable-diffusion-interactive-notebook">Link</a></td>
   </tr>
   <tr>
   <td>10</td>
-    <td>A Jupyter widgets-based interactive notebook for Google Colab to generate images using Stable Diffusion.</td>
-    <td>AI/ML</td>
-    <td></td>
+    <td>A pokemon as your desktop buddy!</td>
+    <td>Desktop Application</td>
+    <td>Any cool ideas like random pokemon spawning. Help in setting up GitHub actions.</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/poke-deskbuddy">Link</a></td>
   </tr>
   <tr>
   <td>11</td>
-    <td>A pokemon as your desktop buddy!</td>
-    <td>Desktop Application</td>
-    <td></td>
+    <td>my project in on Tic Tac toe game which i wrote in CPP i just want to add a very good UI to look this attractive.</td>
+    <td>OOP</td>
+    <td>UI fronted </td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/mini-project">Link</a></td>
   </tr>
   <tr>
   <td>12</td>
-    <td>my project in on Tic Tac toe game which i wrote in CPP i just want to add a very good UI to look this attractive.</td>
-    <td>OOP</td>
-    <td></td>
-    <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
-  </tr>
-  <tr>
-  <td>13</td>
     <td>so basically it is student management system wrote in cpp using linked list in which we can add student info, display it sort it and many more.</td>
     <td>DSA</td>
-    <td></td>
+    <td>want my display to look good tho it is perfect just if you could apply your idea in it.</td>
     <td>-</td>
-    <td><a href="https://github.com/GDSCI2IT/">Link</a></td>
+    <td><a href="https://github.com/GDSCI2IT/mini-project">Link</a></td>
   </tr>
 </table>
